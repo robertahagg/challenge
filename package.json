@@ -1,0 +1,15 @@
+{
+  "name": "moderna",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass scss -o css",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Roberta Häggström",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}

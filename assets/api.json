@@ -1,0 +1,85 @@
+{
+  "insurances": [
+    {
+      "name": "Bilförsäkring",
+      "image": {
+        "href": "/contentassets/fe3336b738d448018be371fd4c20ea15/bil-teaserimage.png"
+      },
+      "url": "/forsakringar/bilforsakring/"
+    },
+    {
+      "name": "Hemförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/hemforsakrin_teaser.jpg"
+      },
+      "url": "/forsakringar/hemforsakring/"
+    },
+    {
+      "name": "Villaförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/villaforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/villaforsakring/"
+    },
+    {
+      "name": "Hundförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/hundforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/hundforsakring/"
+    },
+    {
+      "name": "Kattförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/kattforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/kattforsakring/"
+    },
+    {
+      "name": "Barnförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/barnforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/barnforsakring/"
+    },
+    {
+      "name": "Personförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/personforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/personforsakring/"
+    },
+    {
+      "name": "Gravidförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/2017/gravidforsarking_teaser.jpg"
+      },
+      "url": "/forsakringar/gravidforsakring/"
+    },
+    {
+      "name": "Båtförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/batforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/batforsakring/"
+    },
+    {
+      "name": "Motorcykelförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/motorcykelforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/motorcykelforsakring/"
+    },
+    {
+      "name": "Släpvagnsförsäkring",
+      "image": {
+        "href": "/siteassets/images/optimerade-bilder/slapvagnsforsakring_teaser.jpg"
+      },
+      "url": "/forsakringar/slapvagnsforsakring/"
+    }
+  ],
+  "embedded": {
+    "logo": { "href": "/siteassets/images/logotypes/logo-moderna.svg" }
+  },
+  "meta": { "root": "https://www.modernaforsakringar.se" }
+}
